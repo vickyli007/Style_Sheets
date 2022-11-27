@@ -1,0 +1,92 @@
+Name: Motors
+Id: g=71b15e741c68f63c7f2794ca0188e05f
+Type: FolderType
+Children:
+- Name: Motor1
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 11
+- Name: Motor2
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 21
+- Name: Motor3
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 30
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 31
+- Name: Motor4
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 40
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 41
+- Name: Motor5
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 50
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 51
+- Name: Motor6
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 60
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 61
+- Name: Motor7
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 70
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 71
+- Name: Motor8
+  Type: MotorType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 80
+  - Name: Acceleration
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 81
